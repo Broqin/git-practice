@@ -1,0 +1,1 @@
+I learn about Git and how it is used to manage versions of a project. I learned about GitHub and how it hosts many projects that are managed by Git. I learned that commit messages must be clear and specific.
