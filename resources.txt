@@ -3,3 +3,5 @@ VS Code is useful to me for syntax suggestions and highlighting to make reading 
 Git is a great tool for managing a project.
 
 GitHub is a great resource for finding and hosting projects.
+
+Add one more entry.
